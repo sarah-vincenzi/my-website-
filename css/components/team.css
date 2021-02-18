@@ -1,0 +1,18 @@
+.team {
+  background-image: linear-gradient(200deg, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.8) 75%), url(../../images/indonesia.JPG);
+  background-size: cover;
+  background-position: center;
+  color : white;
+  padding: 32px;
+  height: 500px;
+}
+.team img {
+  width: 300px;
+}
+#colomn1 {
+  float: left;
+  width : 350px;
+}
+#title-left {
+  text-align: left;
+}

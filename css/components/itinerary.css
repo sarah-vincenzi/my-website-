@@ -1,0 +1,18 @@
+.itinerary {
+  background-color: rgb(228,247,246);
+}
+#itinerary {
+  padding: 32px;
+  height: auto;
+}
+.logo-size {
+  width: 50px;
+}
+.list-inline {
+  text-align: center;
+}
+.list-inline li {
+  list-style-type:none;
+  display: inline-block;
+  padding: 30px;
+}

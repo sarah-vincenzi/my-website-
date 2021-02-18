@@ -1,0 +1,28 @@
+.banner {
+  background-image: linear-gradient(200deg, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.8) 75%), url(../../images/indonesia.JPG);
+  background-size: cover;
+  background-position: center;
+  height: auto;
+  color : white;
+}
+#hero {
+  position: relative;
+  padding-bottom: 64px;
+  height: 400px;
+}
+.hero {
+    position:absolute;
+    bottom:0;
+}
+#title-margin {
+  margin-bottom: 50px;
+  margin-top: -20px;
+}
+#what {
+  width : 600px;
+  font-size: 20px;
+  text-align: center;
+  height: auto;
+  padding-top: 200px;
+  padding-bottom: 160px;
+}

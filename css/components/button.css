@@ -1,0 +1,8 @@
+.btn-green {
+  background-color: rgb(66,181,172);
+  color : white;;
+  padding: 8px 30px;
+  text-decoration: none;
+  font-family:'Oswald', sans-serif;
+  font-size: 18px;
+}
